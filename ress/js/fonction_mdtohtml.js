@@ -5,8 +5,8 @@
   	//get content 
   	  $.ajax({
 	    type:     "GET",
-	    url:      url, 
-	    dataType: "text",
+	    url:      url,
+            contentType: "text/plain; charset=utf-8",
 	    success: function(data){
 	    	//pour chague linge
 	        var lignes = data.split('\n');
@@ -19,7 +19,3 @@
 	});
 	
   }
-
-
-
-

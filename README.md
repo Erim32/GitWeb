@@ -1,6 +1,6 @@
 # GitWeb
 
-GitWeb (pour Guithub Web) est un mini site web full: HTML5 - CSS3 - JS totalement autonomme, une fois cnfiguer.
+GitWeb (pour Guithub Web) est un mini site web full: HTML5 - CSS3 - JS totalement autonomme, une fois configuer.
 Qui permet de présenter et partager votre projet, avec des utilisateurs qui ne disposent pas des principes de base de l'utilisation de Github.
 
 Le système est automatique et actualise dynamiquement les éléments suivants:
